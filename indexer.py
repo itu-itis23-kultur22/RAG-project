@@ -3,7 +3,7 @@ import os
 import numpy as np
 from sentence_transformers import SentenceTransformer
 import faiss
-import git.document_converter as document_converter
+import document_converter
 import time
 from llama_index.core.node_parser import get_leaf_nodes
 from llama_index.core.schema import NodeRelationship
