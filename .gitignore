@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Model caches
+.cache/
+~/.cache/huggingface/
+
+.idea/
+main/
+old/
